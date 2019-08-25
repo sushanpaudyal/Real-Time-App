@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac1401d3-7922-4879-b809-25a1bf1c357f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_08_25_182521_create_replies_table.php" afterPath="$PROJECT_DIR$/database/migrations/2019_08_25_182521_create_replies_table.php" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_08_25_182557_create_categories_table.php" afterPath="$PROJECT_DIR$/database/migrations/2019_08_25_182557_create_categories_table.php" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_08_25_182624_create_likes_table.php" afterPath="$PROJECT_DIR$/database/migrations/2019_08_25_182624_create_likes_table.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,11 +17,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2019_08_25_182521_create_replies_table.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/database/migrations/2019_08_25_182521_create_replies_table.php">
+      <file leaf-file-name="2019_08_25_182557_create_categories_table.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2019_08_25_182557_create_categories_table.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            <state relative-caret-position="179">
+              <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019_08_25_182624_create_likes_table.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2019_08_25_182624_create_likes_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" column="61" lean-forward="true" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -37,6 +48,8 @@
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/database/migrations/2019_08_25_182316_create_questions_table.php" />
         <option value="$PROJECT_DIR$/database/migrations/2019_08_25_182521_create_replies_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_08_25_182624_create_likes_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_08_25_182557_create_categories_table.php" />
       </list>
     </option>
   </component>
@@ -225,12 +238,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566757229377</updated>
-      <workItem from="1566757231498" duration="723000" />
+      <workItem from="1566757231498" duration="871000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="723000" />
+    <option name="totallyTimeSpent" value="871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -294,8 +307,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2019_08_25_182521_create_replies_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        <state relative-caret-position="268">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_08_25_182624_create_likes_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="61" lean-forward="true" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_08_25_182557_create_categories_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
           <folding />
         </state>
       </provider>
