@@ -7,6 +7,8 @@ use Illuminate\Database\Eloquent\Model;
 
 class Question extends Model
 {
+    protected $fillable = ['title', 'slug', 'body', 'user_id', 'category_id'];
+
     public function getRouteKeyName(){
         return 'slug';
     }
