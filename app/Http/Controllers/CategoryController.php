@@ -15,7 +15,7 @@ class CategoryController extends Controller
      */
     public function index()
     {
-        //
+        return Category::latest()->get();
     }
 
     /**
@@ -52,19 +52,11 @@ class CategoryController extends Controller
      */
     public function show(Category $category)
     {
-        //
+        return $category;
     }
 
-    /**
-     * Show the form for editing the specified resource.
-     *
-     * @param  \App\Model\Category  $category
-     * @return \Illuminate\Http\Response
-     */
-    public function edit(Category $category)
-    {
-        //
-    }
+
+
 
     /**
      * Update the specified resource in storage.
@@ -86,6 +78,7 @@ class CategoryController extends Controller
      */
     public function destroy(Category $category)
     {
-        //
+        $category->delete();
+        return response(null, Response::HTTP_NO_CONTENT);
     }
 }
