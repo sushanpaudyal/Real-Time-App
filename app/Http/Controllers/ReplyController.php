@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Model\Question;
 use App\Model\Reply;
 use Illuminate\Http\Request;
 
@@ -12,9 +13,9 @@ class ReplyController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
+    public function index(Question $question)
     {
-        //
+        return $question->replies;
     }
 
     /**
@@ -44,9 +45,9 @@ class ReplyController extends Controller
      * @param  \App\Model\Reply  $reply
      * @return \Illuminate\Http\Response
      */
-    public function show(Reply $reply)
+    public function show(Question $question, Reply $reply)
     {
-        //
+        return $reply;
     }
 
     /**
