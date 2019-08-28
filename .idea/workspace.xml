@@ -4,7 +4,6 @@
     <list default="true" id="ac1401d3-7922-4879-b809-25a1bf1c357f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" />
-      <change beforePath="$PROJECT_DIR$/app/Model/Category.php" afterPath="$PROJECT_DIR$/app/Model/Category.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CategoryController.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CategoryController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CategoryController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="82" selection-end-column="5" />
+            <state relative-caret-position="281">
+              <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="71" selection-end-column="5" />
               <folding>
                 <element signature="e#40#63#0#PHP" expanded="true" />
               </folding>
@@ -30,7 +29,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Category.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Category.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Model/Category.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -238,7 +237,7 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="Que&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Http/Controllers/QuestionController.php&#10;Cat&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Model/Category.php&#10;Ques&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Http/Controllers/QuestionController.php&#10;api&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/routes/api.php&#10;Category&#9;null&#9;null&#10;Qu&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Model/Question.php&#10;Quest&#9;null&#9;null&#10;api.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/routes/api.php&#10;User&#9;null&#9;null&#10;Repl&#9;null&#9;null&#10;Question.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Model/Question.php" />
+    <property name="SearchEverywhereHistoryKey" value="Qu&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Http/Controllers/QuestionController.php&#10;Que&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Http/Controllers/QuestionController.php&#10;Cat&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Model/Category.php&#10;Ques&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Http/Controllers/QuestionController.php&#10;api&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/routes/api.php&#10;Category&#9;null&#9;null&#10;Quest&#9;null&#9;null&#10;api.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/routes/api.php&#10;User&#9;null&#9;null&#10;Repl&#9;null&#9;null&#10;Question.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Model/Question.php" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -267,12 +266,12 @@
       <updated>1566757229377</updated>
       <workItem from="1566757231498" duration="3189000" />
       <workItem from="1566833274558" duration="2081000" />
-      <workItem from="1567013334777" duration="1051000" />
+      <workItem from="1567013334777" duration="1239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6321000" />
+    <option name="totallyTimeSpent" value="6509000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -440,29 +439,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/QuestionController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+        <state relative-caret-position="226">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CategoryController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="82" selection-end-column="5" />
+        <state relative-caret-position="281">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="71" selection-end-column="5" />
           <folding>
             <element signature="e#40#63#0#PHP" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Model/Category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
