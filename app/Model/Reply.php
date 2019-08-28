@@ -18,4 +18,5 @@ class Reply extends Model
     public function like(){
         return $this->hasMany(Like::class);
     }
+    protected $guarded = [];
 }
