@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac1401d3-7922-4879-b809-25a1bf1c357f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/realtimeApp.iml" afterPath="$PROJECT_DIR$/.idea/realtimeApp.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" afterPath="$PROJECT_DIR$/app/User.php" />
+      <change beforePath="$PROJECT_DIR$/config/auth.php" afterPath="$PROJECT_DIR$/config/auth.php" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" afterPath="$PROJECT_DIR$/routes/api.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,12 +19,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/composer.json">
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/User.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state relative-caret-position="272">
+              <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+              <folding>
+                <element signature="e#23#46#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auth.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/auth.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="api.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/api.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="32" column="51" lean-forward="true" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AuthController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AuthController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-804">
+              <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+              <folding>
+                <element signature="e#40#76#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -43,7 +76,6 @@
         <option value="$PROJECT_DIR$/database/migrations/2019_08_25_182521_create_replies_table.php" />
         <option value="$PROJECT_DIR$/database/migrations/2019_08_25_182624_create_likes_table.php" />
         <option value="$PROJECT_DIR$/database/migrations/2019_08_25_182557_create_categories_table.php" />
-        <option value="$PROJECT_DIR$/app/User.php" />
         <option value="$PROJECT_DIR$/database/factories/QuestionFactory.php" />
         <option value="$PROJECT_DIR$/database/factories/ReplyFactory.php" />
         <option value="$PROJECT_DIR$/database/factories/CategoryFactory.php" />
@@ -58,10 +90,13 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/ReplyController.php" />
         <option value="$PROJECT_DIR$/app/Http/Resources/ReplyResource.php" />
-        <option value="$PROJECT_DIR$/routes/api.php" />
         <option value="$PROJECT_DIR$/app/Model/Like.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/LikeController.php" />
         <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/app/User.php" />
+        <option value="$PROJECT_DIR$/config/auth.php" />
+        <option value="$PROJECT_DIR$/routes/api.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/AuthController.php" />
       </list>
     </option>
   </component>
@@ -239,7 +274,7 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="jwt.php&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/config/jwt.php&#10;compo&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/composer.json&#10;Like.p&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Model/Like.php&#10;LikeCon&#9;null&#9;null&#10;LIke&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/database/factories/LikeFactory.php&#10;api&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/routes/api.php&#10;Cat&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Http/Controllers/CategoryController.php&#10;Ques&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Http/Controllers/QuestionController.php&#10;Repl&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Http/Controllers/ReplyController.php&#10;ReplyRes&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Http/Resources/ReplyResource.php&#10;Categ&#9;null&#9;null&#10;api.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/routes/api.php&#10;Qu&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Http/Controllers/QuestionController.php&#10;Que&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Http/Controllers/QuestionController.php&#10;Category&#9;null&#9;null&#10;Quest&#9;null&#9;null&#10;User&#9;null&#9;null&#10;Question.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Model/Question.php" />
+    <property name="SearchEverywhereHistoryKey" value="Aut&#9;null&#9;null&#10;api&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/routes/api.php&#10;auth.php&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/config/auth.php&#10;User&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/User.php&#10;jwt.php&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/config/jwt.php&#10;compo&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/composer.json&#10;Like.p&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Model/Like.php&#10;LikeCon&#9;null&#9;null&#10;LIke&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/database/factories/LikeFactory.php&#10;Cat&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Http/Controllers/CategoryController.php&#10;Ques&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Http/Controllers/QuestionController.php&#10;Repl&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Http/Controllers/ReplyController.php&#10;ReplyRes&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Http/Resources/ReplyResource.php&#10;Categ&#9;null&#9;null&#10;api.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/routes/api.php&#10;Qu&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Http/Controllers/QuestionController.php&#10;Que&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Http/Controllers/QuestionController.php&#10;Category&#9;null&#9;null&#10;Quest&#9;null&#9;null&#10;Question.&#9;FILE&#9;file:///Applications/MAMP/htdocs/Study/realtimeApp/app/Model/Question.php" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -269,15 +304,16 @@
       <workItem from="1566757231498" duration="3189000" />
       <workItem from="1566833274558" duration="2081000" />
       <workItem from="1567013334777" duration="3862000" />
-      <workItem from="1567441478767" duration="633000" />
+      <workItem from="1567441478767" duration="960000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9765000" />
+    <option name="totallyTimeSpent" value="10092000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25679544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -288,7 +324,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -363,13 +399,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="19" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="42" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -485,13 +514,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/api.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="22" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/LikeController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -523,6 +545,42 @@
         <state relative-caret-position="136">
           <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="e#23#46#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="32" column="51" lean-forward="true" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-804">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding>
+            <element signature="e#40#76#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
